@@ -65,7 +65,6 @@
   </XML>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
-    <option name="ALIGN_CONSECUTIVE_VARIABLE_DECLARATIONS" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="FIELD_ANNOTATION_WRAP" value="1" />
