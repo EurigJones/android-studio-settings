@@ -17,6 +17,7 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="EditorSplitLine" />
+  <action id="EditorToggleCase" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
@@ -65,6 +66,10 @@
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="meta minus" />
