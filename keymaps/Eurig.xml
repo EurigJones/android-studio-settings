@@ -40,6 +40,9 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="FindNext" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -71,9 +74,7 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
-  <action id="ShowUsages">
-    <keyboard-shortcut first-keystroke="shift meta u" />
-  </action>
+  <action id="ShowUsages" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
