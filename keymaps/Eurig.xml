@@ -1,5 +1,9 @@
 <keymap version="1" name="Eurig" parent="Mac OS X 10.5+">
   <action id="ActivateStructureToolWindow" />
+  <action id="CIDR.Lang.ObjC.IntroduceProperty" />
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="meta alt e" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -16,6 +20,7 @@
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="Console.History.Browse" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
@@ -42,6 +47,9 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FindInPath" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta alt n" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -56,6 +64,7 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="Inline" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
@@ -84,6 +93,9 @@
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
