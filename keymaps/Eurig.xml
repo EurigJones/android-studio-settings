@@ -46,7 +46,10 @@
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
-  <action id="FindInPath" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="FindNext" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta alt n" />
   </action>
