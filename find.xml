@@ -5,18 +5,18 @@
     <option name="defaultScopeName" value="Project 'ud851-PopularMoviesPartOne'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'ud851-PopularMoviesPartOne'" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
       <mask>*.gradle</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
