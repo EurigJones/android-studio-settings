@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'ud851-PopularMoviesPartOne'" />
-    <option name="defaultScopeName" value="Project 'ud851-PopularMoviesPartOne'" />
+    <option name="customScope" value="Directory '/Users/eurigjones/AndroidProjects/ud851-PopularMovies/app'" />
+    <option name="defaultScopeName" value="Directory '/Users/eurigjones/AndroidProjects/ud851-PopularMovies/app'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'ud851-PopularMoviesPartOne'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/eurigjones/AndroidProjects/ud851-PopularMovies/app'" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
