@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/eurigjones/AndroidProjects/ud851-PopularMovies/app'" />
-    <option name="defaultScopeName" value="Directory '/Users/eurigjones/AndroidProjects/ud851-PopularMovies/app'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/eurigjones/AndroidProjects/ud851-PopularMovies/app'" />
+    <option name="customScope" value="Project 'ud851-PopularMovies'" />
+    <option name="defaultScopeName" value="Project 'ud851-PopularMovies'" />
+    <option name="SEARCH_SCOPE" value="Project 'ud851-PopularMovies'" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
