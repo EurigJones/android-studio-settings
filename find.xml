@@ -3,7 +3,7 @@
     <option name="customScope" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
     <option name="defaultScopeName" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,9 +12,9 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.gradle</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
