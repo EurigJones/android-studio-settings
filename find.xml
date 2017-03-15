@@ -12,8 +12,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.xml</mask>
-      <mask>*.gradle</mask>
       <mask>*.properties</mask>
+      <mask>*.gradle</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
