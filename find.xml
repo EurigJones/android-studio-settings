@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
-    <option name="defaultScopeName" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
+    <option name="customScope" value="Directory '.../app - [app]'" />
+    <option name="defaultScopeName" value="Directory '.../app - [app]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../app - [app]'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
