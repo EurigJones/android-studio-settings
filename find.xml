@@ -3,7 +3,7 @@
     <option name="customScope" value="Directory '.../app - [app]'" />
     <option name="defaultScopeName" value="Directory '.../app - [app]'" />
     <option name="SEARCH_SCOPE" value="Directory '.../app - [app]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -12,10 +12,10 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.properties</mask>
-      <mask>*.gradle</mask>
       <mask>*.*</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
