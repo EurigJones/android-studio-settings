@@ -3,9 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
     <option name="defaultScopeName" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -13,13 +15,13 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.properties</mask>
       <mask>*.*</mask>
       <mask>Error*.java</mask>
-      <mask>*.gradle</mask>
       <mask>*Fragment.java</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.gradle</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
