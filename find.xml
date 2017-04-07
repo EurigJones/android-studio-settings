@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
-    <option name="defaultScopeName" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
+    <option name="customScope" value="Directory '... - [CleanActivityResult]'" />
+    <option name="defaultScopeName" value="Directory '... - [CleanActivityResult]'" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
+    <option name="SEARCH_SCOPE" value="Directory '... - [CleanActivityResult]'" />
     <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*.html</mask>
