@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/eurigjones/AndroidProjects/sandbox-android/app/src/main/java/co/uk/eurigjones/sandbox/android/forex'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -15,10 +15,10 @@
       <mask>*.mxml</mask>
       <mask>*.*</mask>
       <mask>Error*.java</mask>
-      <mask>*.gradle</mask>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
