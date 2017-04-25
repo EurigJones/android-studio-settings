@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Directory '.../Common/src - [Common]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../Common/src - [Common]'" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.gradle, *.xml, *.properties" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -19,6 +19,7 @@
       <mask>*.xml</mask>
       <mask>*.properties</mask>
       <mask>*.gradle</mask>
+      <mask>*.gradle, *.xml, *.properties</mask>
     </recentFileMasks>
   </component>
 </application>
