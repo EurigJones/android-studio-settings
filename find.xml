@@ -1,13 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '... - [CleanActivityResult]'" />
-    <option name="defaultScopeName" value="Directory '... - [CleanActivityResult]'" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '... - [CleanActivityResult]'" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="customScope" value="Directory '.../Common - [Common]'" />
+    <option name="defaultScopeName" value="Directory '.../Common - [Common]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../Common - [Common]'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -17,11 +13,11 @@
       <mask>*.mxml</mask>
       <mask>*.*</mask>
       <mask>Error*.java</mask>
-      <mask>*Fragment.java</mask>
-      <mask>*.xml</mask>
       <mask>*.properties</mask>
-      <mask>*.java</mask>
       <mask>*.gradle</mask>
+      <mask>*.gradle, *.xml, *.properties</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
