@@ -3,7 +3,7 @@
     <option name="customScope" value="Directory '.../Common - [Common]'" />
     <option name="defaultScopeName" value="Directory '.../Common - [Common]'" />
     <option name="SEARCH_SCOPE" value="Directory '.../Common - [Common]'" />
-    <option name="FILE_MASK" value="*.gradle, *.properties" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -20,6 +20,7 @@
       <mask>*.gradle</mask>
       <mask>*.gradle, *.properties, *.xml</mask>
       <mask>*.gradle, *.properties</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
