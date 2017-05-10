@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '.../Common - [Common]'" />
     <option name="defaultScopeName" value="Directory '.../Common - [Common]'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../Common - [Common]'" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -11,16 +13,16 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.*</mask>
       <mask>Error*.java</mask>
       <mask>*.properties</mask>
       <mask>*.gradle, *.xml, *.properties</mask>
-      <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*.gradle</mask>
       <mask>*.gradle, *.properties, *.xml</mask>
       <mask>*.gradle, *.properties</mask>
       <mask>*.json</mask>
+      <mask>*.*</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
