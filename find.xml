@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Directory '... - [chesspresso]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '... - [chesspresso]'" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -17,9 +17,9 @@
       <mask>*.xmkl</mask>
       <mask>*.properties</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*.gradle</mask>
       <mask>*.*</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
