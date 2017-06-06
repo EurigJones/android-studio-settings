@@ -13,11 +13,11 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.*</mask>
       <mask>Error*.java</mask>
+      <mask>*.xmkl</mask>
       <mask>*.properties</mask>
       <mask>*.gradle</mask>
-      <mask>*.xmkl</mask>
+      <mask>*.*</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
