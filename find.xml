@@ -19,6 +19,7 @@
       <mask>*.gradle</mask>
       <mask>*.xml</mask>
       <mask>*.properties</mask>
+      <mask>*.prop</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
