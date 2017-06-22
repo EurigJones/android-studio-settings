@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../Common - [Common]'" />
-    <option name="defaultScopeName" value="Directory '.../Common - [Common]'" />
+    <option name="customScope" value="File '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain/NewFeaturesDomain.java - [Common]'" />
+    <option name="defaultScopeName" value="File '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain/NewFeaturesDomain.java - [Common]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Common - [Common]'" />
+    <option name="SEARCH_SCOPE" value="File '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain/NewFeaturesDomain.java - [Common]'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
