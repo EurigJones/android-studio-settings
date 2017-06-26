@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '... - [chesspresso]'" />
-    <option name="defaultScopeName" value="Directory '... - [chesspresso]'" />
+    <option name="customScope" value="File '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain/NewFeaturesDomain.java - [Common]'" />
+    <option name="defaultScopeName" value="File '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain/NewFeaturesDomain.java - [Common]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '... - [chesspresso]'" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="SEARCH_SCOPE" value="File '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain/NewFeaturesDomain.java - [Common]'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -15,11 +15,12 @@
       <mask>*.mxml</mask>
       <mask>Error*.java</mask>
       <mask>*.xmkl</mask>
-      <mask>*.properties</mask>
-      <mask>*.gradle</mask>
       <mask>*.*</mask>
-      <mask>*.java</mask>
+      <mask>*.gradle</mask>
       <mask>*.xml</mask>
+      <mask>*.properties</mask>
+      <mask>*.prop</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
