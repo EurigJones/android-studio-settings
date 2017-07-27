@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Directory '.../Common - [Common]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../Common - [Common]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -16,13 +16,13 @@
       <mask>Error*.java</mask>
       <mask>*.xmkl</mask>
       <mask>*.*</mask>
-      <mask>*.gradle</mask>
       <mask>*.prop</mask>
       <mask>*.properties</mask>
       <mask>*Commands.java</mask>
       <mask>*.xml</mask>
       <mask>Inte*.java</mask>
       <mask>*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
