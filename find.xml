@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Directory '.../Common - [Common]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../Common - [Common]'" />
-    <option name="FILE_MASK" value="*ViewModel.java" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -22,8 +22,8 @@
       <mask>*.xml</mask>
       <mask>Inte*.java</mask>
       <mask>*.gradle</mask>
-      <mask>*.java</mask>
       <mask>*ViewModel.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
