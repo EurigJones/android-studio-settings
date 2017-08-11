@@ -3,7 +3,7 @@
     <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/transactions/creditcard - [Common]'" />
     <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/transactions/creditcard - [Common]'" />
     <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/transactions/creditcard - [Common]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -20,8 +20,8 @@
       <mask>Inte*.java</mask>
       <mask>*.gradle</mask>
       <mask>*ViewModel.java</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
