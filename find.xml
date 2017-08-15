@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '... - [sandbox-android]'" />
-    <option name="defaultScopeName" value="Directory '... - [sandbox-android]'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '... - [sandbox-android]'" />
+    <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/transactions/creditcard - [Common]'" />
+    <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/transactions/creditcard - [Common]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/transactions/creditcard - [Common]'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
@@ -19,10 +17,10 @@
       <mask>*.prop</mask>
       <mask>*.properties</mask>
       <mask>*Commands.java</mask>
-      <mask>*.xml</mask>
       <mask>Inte*.java</mask>
       <mask>*.gradle</mask>
       <mask>*ViewModel.java</mask>
+      <mask>*.xml</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
