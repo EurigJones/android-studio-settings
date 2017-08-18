@@ -3,7 +3,7 @@
     <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
     <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
     <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -17,11 +17,11 @@
       <mask>*.prop</mask>
       <mask>*Commands.java</mask>
       <mask>Inte*.java</mask>
-      <mask>*.gradle</mask>
       <mask>*ViewModel.java</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.properties</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
