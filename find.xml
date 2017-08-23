@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../Common/src/test/java - [Common]'" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -19,11 +19,11 @@
       <mask>*Commands.java</mask>
       <mask>Inte*.java</mask>
       <mask>*ViewModel.java</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.gradle</mask>
       <mask>*.properties</mask>
       <mask>*.*</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
