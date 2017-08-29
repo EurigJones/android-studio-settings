@@ -1,9 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/transactions/creditcard - [Common]'" />
-    <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/transactions/creditcard - [Common]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/transactions/creditcard - [Common]'" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
+    <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -13,15 +17,15 @@
       <mask>*.mxml</mask>
       <mask>Error*.java</mask>
       <mask>*.xmkl</mask>
-      <mask>*.*</mask>
       <mask>*.prop</mask>
-      <mask>*.properties</mask>
       <mask>*Commands.java</mask>
       <mask>Inte*.java</mask>
-      <mask>*.gradle</mask>
       <mask>*ViewModel.java</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.gradle</mask>
+      <mask>*.properties</mask>
+      <mask>*.*</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
