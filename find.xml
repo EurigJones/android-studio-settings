@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -21,13 +21,13 @@
       <mask>*Commands.java</mask>
       <mask>Inte*.java</mask>
       <mask>*ViewModel.java</mask>
-      <mask>*.xml</mask>
       <mask>*.gradle</mask>
       <mask>*.properties</mask>
       <mask>*.*</mask>
       <mask>*.json</mask>
       <mask>*Domain.java</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
