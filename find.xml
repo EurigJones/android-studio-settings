@@ -19,12 +19,12 @@
       <mask>*Commands.java</mask>
       <mask>Inte*.java</mask>
       <mask>*ViewModel.java</mask>
-      <mask>*.*</mask>
       <mask>*.json</mask>
       <mask>*Domain.java</mask>
-      <mask>*.xml</mask>
-      <mask>*.gradle</mask>
       <mask>*.properties</mask>
+      <mask>*.gradle</mask>
+      <mask>*.xml</mask>
+      <mask>*.*</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
