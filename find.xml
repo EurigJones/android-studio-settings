@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
+    <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -19,13 +19,13 @@
       <mask>*Commands.java</mask>
       <mask>Inte*.java</mask>
       <mask>*ViewModel.java</mask>
-      <mask>*.gradle</mask>
-      <mask>*.properties</mask>
-      <mask>*.*</mask>
       <mask>*.json</mask>
       <mask>*Domain.java</mask>
+      <mask>*.gradle</mask>
+      <mask>*.properties</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
