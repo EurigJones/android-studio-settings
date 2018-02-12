@@ -1,18 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.gl</mask>
-      <mask>*.gral</mask>
-      <mask>*.gradl</mask>
-      <mask>*.gradll</mask>
-      <mask>*.gradlel</mask>
-      <mask>*.txt</mask>
       <mask>*.tx</mask>
       <mask>*.t</mask>
       <mask>*.propert</mask>
@@ -23,12 +19,7 @@
       <mask>*.properties</mask>
       <mask>*.pr</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
       <mask>*.grad</mask>
-      <mask>*.gradle</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*..xml</mask>
@@ -37,6 +28,17 @@
       <mask>*.*ml</mask>
       <mask>*.*l</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.general</mask>
+      <mask>*.genera</mask>
+      <mask>*.gener</mask>
+      <mask>*.gene</mask>
+      <mask>*.gen</mask>
+      <mask>*.ge</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
