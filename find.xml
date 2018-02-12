@@ -1,44 +1,42 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.tx</mask>
-      <mask>*.t</mask>
-      <mask>*.propert</mask>
-      <mask>*.pro</mask>
-      <mask>*.proper</mask>
-      <mask>*.properti</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
-      <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>*.grad</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*..xml</mask>
       <mask>*.*.xml</mask>
       <mask>*.*xml</mask>
       <mask>*.*ml</mask>
       <mask>*.*l</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.general</mask>
       <mask>*.genera</mask>
       <mask>*.gener</mask>
       <mask>*.gene</mask>
       <mask>*.gen</mask>
       <mask>*.ge</mask>
-      <mask>*.g</mask>
       <mask>*.gr</mask>
+      <mask>*.xm</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.p</mask>
+      <mask>*.grad</mask>
+      <mask>*</mask>
+      <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.*</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
