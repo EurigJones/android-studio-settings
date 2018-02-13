@@ -16,7 +16,6 @@
       <mask>*.gene</mask>
       <mask>*.gen</mask>
       <mask>*.ge</mask>
-      <mask>*.gr</mask>
       <mask>*.xm</mask>
       <mask>*.prop</mask>
       <mask>*.propert</mask>
@@ -25,14 +24,15 @@
       <mask>*.*</mask>
       <mask>*.</mask>
       <mask>*.jav</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.pro</mask>
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.gr</mask>
+      <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
