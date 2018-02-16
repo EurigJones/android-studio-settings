@@ -22,7 +22,6 @@
       <mask>*.gradle</mask>
       <mask>*.xm</mask>
       <mask>*</mask>
-      <mask>*.x</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.proper</mask>
@@ -30,10 +29,11 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
+      <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
