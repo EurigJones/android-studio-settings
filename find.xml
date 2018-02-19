@@ -22,10 +22,6 @@
       <mask>*.propert</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
@@ -36,6 +32,10 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
