@@ -30,12 +30,12 @@
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
+      <mask>*.x</mask>
       <mask>*.pro</mask>
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
