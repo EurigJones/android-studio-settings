@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.txt" />
+    <option name="FILE_MASK" value="*.gradle " />
     <recentFileMasks>
-      <mask>*.gradl;e</mask>
       <mask>*.gradl;</mask>
       <mask>*.j</mask>
       <mask>*COmma.*</mask>
@@ -32,11 +31,12 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.grad</mask>
+      <mask>*.txt</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
-      <mask>*.grad</mask>
       <mask>*.gradle</mask>
-      <mask>*.txt</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
