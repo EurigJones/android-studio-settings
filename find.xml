@@ -5,10 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java " />
+    <option name="FILE_MASK" value="*.xml " />
     <recentFileMasks>
-      <mask>*COmma.*</mask>
-      <mask>*COmm.*</mask>
       <mask>*COm.*</mask>
       <mask>*CO.*</mask>
       <mask>*C.*</mask>
@@ -37,6 +35,8 @@
       <mask>*.gradle</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
