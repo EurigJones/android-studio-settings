@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*</mask>
       <mask>*.tx</mask>
@@ -33,10 +33,10 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.x</mask>
-      <mask>*.*</mask>
       <mask>*.</mask>
       <mask>*.k</mask>
       <mask>*.kt</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
