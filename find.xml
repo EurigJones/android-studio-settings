@@ -1,34 +1,41 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
-    <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
-    <option name="localCaseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/domain - [Common]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>Error*.java</mask>
-      <mask>*.xmkl</mask>
-      <mask>*.prop</mask>
-      <mask>*Commands.java</mask>
-      <mask>Inte*.java</mask>
-      <mask>*ViewModel.java</mask>
+      <mask>*.tx</mask>
+      <mask>*.xmlapp_name_main</mask>
+      <mask>*.jav</mask>
+      <mask>*.grad</mask>
+      <mask>*.txt</mask>
+      <mask>*.ja</mask>
+      <mask>*.ja</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
       <mask>*.gradle</mask>
+      <mask>*.gradle</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.xmlrbs_file_provider</mask>
+      <mask>*.xm</mask>
+      <mask>*.k</mask>
+      <mask>*.kt</mask>
       <mask>*.*</mask>
-      <mask>*.json</mask>
-      <mask>*Domain.java</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.json</mask>
+      <mask>*.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
