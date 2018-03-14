@@ -34,8 +34,8 @@
       <mask>*.json</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
-      <mask>*.gradle</mask>
       <mask>*.properties</mask>
+      <mask>*.gradle</mask>
       <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
