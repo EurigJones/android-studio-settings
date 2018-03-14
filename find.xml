@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.tx</mask>
       <mask>*.xmlapp_name_main</mask>
@@ -25,7 +25,6 @@
       <mask>*.xm</mask>
       <mask>*.k</mask>
       <mask>*.kt</mask>
-      <mask>*.*</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.x</mask>
@@ -37,6 +36,7 @@
       <mask>*.properties</mask>
       <mask>*.gradle</mask>
       <mask>*.gradle</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
