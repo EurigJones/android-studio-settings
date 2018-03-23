@@ -7,7 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.xmlapp_name_main</mask>
       <mask>*.txt</mask>
       <mask>*.ja</mask>
       <mask>*.ja</mask>
@@ -30,9 +29,10 @@
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
       <mask>*.gradle</mask>
+      <mask>*.propertie</mask>
       <mask>*.pro</mask>
       <mask>*.proper</mask>
-      <mask>*.propertie</mask>
+      <mask>*.propert</mask>
       <mask>*.properties</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
