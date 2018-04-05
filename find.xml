@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.txt</mask>
       <mask>*.prop</mask>
@@ -33,10 +33,10 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
+      <mask>*.xml</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
