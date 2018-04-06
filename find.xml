@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt, *.xml" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
       <mask>*.prop</mask>
       <mask>*.properti</mask>
@@ -35,8 +35,8 @@
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.kt</mask>
       <mask>*.kt, *.xml</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
