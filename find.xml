@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value=".kt" />
+    <option name="FILE_MASK" value=".xml" />
     <recentFileMasks>
-      <mask>*.xm</mask>
       <mask>*.k</mask>
       <mask>*.</mask>
       <mask>*.*</mask>
@@ -39,6 +38,7 @@
       <mask>*Params.kt</mask>
       <mask>.java</mask>
       <mask>.kt</mask>
+      <mask>.xml</mask>
     </recentFileMasks>
   </component>
 </application>
