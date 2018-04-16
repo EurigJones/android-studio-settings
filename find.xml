@@ -31,11 +31,11 @@
       <mask>*.java</mask>
       <mask>*.kt</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*Params.kt</mask>
       <mask>.java</mask>
       <mask>.kt</mask>
       <mask>.xml</mask>
+      <mask>*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
