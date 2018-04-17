@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ViewModel.kt" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
       <mask>*.</mask>
       <mask>*.*</mask>
@@ -37,8 +37,8 @@
       <mask>.xml</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.kt</mask>
       <mask>*ViewModel.kt</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
