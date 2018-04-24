@@ -35,9 +35,9 @@
       <mask>*.java</mask>
       <mask>*.java</mask>
       <mask>R.*</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml</mask>
       <mask>*.json</mask>
-      <mask>*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>
