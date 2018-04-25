@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'android-rbsg-retail'" />
-    <option name="defaultScopeName" value="Project 'android-rbsg-retail'" />
+    <option name="customScope" value="Module 'Common'" />
+    <option name="defaultScopeName" value="Module 'Common'" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'android-rbsg-retail'" />
+    <option name="SEARCH_SCOPE" value="Module 'Common'" />
     <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.x</mask>
