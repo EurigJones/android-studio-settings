@@ -1,21 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Module 'Common'" />
+    <option name="defaultScopeName" value="Module 'Common'" />
     <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="Module 'Common'" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.txt</mask>
-      <mask>*.prop</mask>
-      <mask>*.properti</mask>
-      <mask>*.xmlrbs_file_provider</mask>
-      <mask>*.xm</mask>
-      <mask>*.k</mask>
-      <mask>*.kt</mask>
-      <mask>*.</mask>
-      <mask>*.*</mask>
       <mask>*.x</mask>
       <mask>*.x</mask>
       <mask>*.g</mask>
@@ -28,15 +21,24 @@
       <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.properties</mask>
-      <mask>*.json</mask>
       <mask>*.ja</mask>
       <mask>*.ja</mask>
-      <mask>*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
+      <mask>*.kt, *.xml</mask>
+      <mask>*Params.kt</mask>
+      <mask>.java</mask>
+      <mask>.kt</mask>
+      <mask>.xml</mask>
+      <mask>*ViewModel.kt</mask>
+      <mask>*.kt</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
+      <mask>R.*</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.json</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
