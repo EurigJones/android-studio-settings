@@ -10,7 +10,6 @@
     <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.x</mask>
-      <mask>*.x</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
@@ -38,6 +37,7 @@
       <mask>*.xml</mask>
       <mask>*.xml</mask>
       <mask>*.json</mask>
+      <mask>ref*.xml</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>
