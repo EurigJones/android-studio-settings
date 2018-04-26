@@ -31,12 +31,12 @@
       <mask>.xml</mask>
       <mask>*ViewModel.kt</mask>
       <mask>*.kt</mask>
-      <mask>*.java</mask>
-      <mask>*.java</mask>
       <mask>R.*</mask>
       <mask>*.json</mask>
       <mask>ref*.xml</mask>
       <mask>*.*</mask>
+      <mask>*.java</mask>
+      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
