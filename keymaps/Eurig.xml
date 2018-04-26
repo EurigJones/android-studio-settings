@@ -55,6 +55,9 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="FindNext" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl meta w" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta alt n" />
   </action>
