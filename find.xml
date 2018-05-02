@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.x</mask>
       <mask>*.g</mask>
@@ -34,11 +34,11 @@
       <mask>R.*</mask>
       <mask>*.json</mask>
       <mask>ref*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
       <mask>*.*</mask>
+      <mask>*.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
