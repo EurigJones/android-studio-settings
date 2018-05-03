@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Fragment.*" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.g</mask>
       <mask>*.gra</mask>
@@ -34,11 +34,11 @@
       <mask>ref*.xml</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.*</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
       <mask>*.kt</mask>
       <mask>*Fragment.*</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
