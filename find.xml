@@ -33,9 +33,9 @@
       <mask>*.java</mask>
       <mask>*.kt</mask>
       <mask>*Fragment.*</mask>
-      <mask>*.xml</mask>
       <mask>*.JSon</mask>
       <mask>*.*</mask>
+      <mask>*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
