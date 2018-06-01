@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="themes.xml" />
     <recentFileMasks>
-      <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.propertie</mask>
       <mask>*.pro</mask>
@@ -37,6 +36,7 @@
       <mask>*.*</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
+      <mask>themes.xml</mask>
     </recentFileMasks>
   </component>
 </application>
