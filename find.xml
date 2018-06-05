@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
       <mask>*.grad</mask>
       <mask>*.propertie</mask>
@@ -26,10 +26,8 @@
       <mask>R.*</mask>
       <mask>*.json</mask>
       <mask>ref*.xml</mask>
-      <mask>*.kt</mask>
       <mask>*Fragment.*</mask>
       <mask>*.JSon</mask>
-      <mask>*.java</mask>
       <mask>*.gradle</mask>
       <mask>*.gradle</mask>
       <mask>*.*</mask>
@@ -37,6 +35,8 @@
       <mask>*.xml</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.java</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
