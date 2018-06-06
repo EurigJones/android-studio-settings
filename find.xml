@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.grad</mask>
       <mask>*.propertie</mask>
@@ -32,11 +32,11 @@
       <mask>*.gradle</mask>
       <mask>*.*</mask>
       <mask>themes.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
       <mask>*.kt</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
