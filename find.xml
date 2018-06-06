@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
       <mask>*.grad</mask>
       <mask>*.propertie</mask>
@@ -33,8 +33,8 @@
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.kt</mask>
       <mask>*.java</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
