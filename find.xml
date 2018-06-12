@@ -31,11 +31,11 @@
       <mask>*.gradle</mask>
       <mask>*.*</mask>
       <mask>themes.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
       <mask>*.kt</mask>
       <mask>*Fragment.kt</mask>
+      <mask>*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
