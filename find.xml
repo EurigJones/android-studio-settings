@@ -30,10 +30,10 @@
       <mask>*.*</mask>
       <mask>themes.xml</mask>
       <mask>*Fragment.kt</mask>
-      <mask>*.xml</mask>
       <mask>*.kt</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
