@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.propertie</mask>
       <mask>*.pro</mask>
@@ -25,16 +27,16 @@
       <mask>ref*.xml</mask>
       <mask>*Fragment.*</mask>
       <mask>*.JSon</mask>
-      <mask>*.*</mask>
       <mask>themes.xml</mask>
       <mask>*Fragment.kt</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.gradle</mask>
       <mask>*.kt</mask>
       <mask>*.gradle</mask>
+      <mask>*.gradle</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
