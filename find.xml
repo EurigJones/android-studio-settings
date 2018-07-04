@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.propertie</mask>
       <mask>*.pro</mask>
@@ -26,7 +26,6 @@
       <mask>*Fragment.*</mask>
       <mask>*.JSon</mask>
       <mask>*.gradle</mask>
-      <mask>*.gradle</mask>
       <mask>*.*</mask>
       <mask>themes.xml</mask>
       <mask>*Fragment.kt</mask>
@@ -35,6 +34,7 @@
       <mask>*.xml</mask>
       <mask>*.xml</mask>
       <mask>*.kt</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
