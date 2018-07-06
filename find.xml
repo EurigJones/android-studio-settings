@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.propertie</mask>
       <mask>*.pro</mask>
@@ -30,13 +30,13 @@
       <mask>themes.xml</mask>
       <mask>*Fragment.kt</mask>
       <mask>*.java</mask>
-      <mask>*.java</mask>
-      <mask>*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.gradle</mask>
       <mask>*.gradle</mask>
       <mask>*.kt</mask>
       <mask>*.*</mask>
+      <mask>*.java</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
