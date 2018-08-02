@@ -30,7 +30,6 @@
       <mask>*.JSon</mask>
       <mask>themes.xml</mask>
       <mask>*Fragment.kt</mask>
-      <mask>*.gradle</mask>
       <mask>*.*</mask>
       <mask>*.kt</mask>
       <mask>*ViewModel.kt</mask>
@@ -38,6 +37,7 @@
       <mask>*.java</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.gradle</mask>
       <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
