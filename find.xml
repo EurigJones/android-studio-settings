@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.propertie</mask>
       <mask>*.pro</mask>
@@ -33,12 +33,12 @@
       <mask>*.kt</mask>
       <mask>*ViewModel.kt</mask>
       <mask>*.java</mask>
-      <mask>*.java</mask>
       <mask>*.gradle</mask>
       <mask>*.gradle</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
       <mask>*.*</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
