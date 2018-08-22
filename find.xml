@@ -31,13 +31,13 @@
       <mask>*.java</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.sh</mask>
       <mask>*.gradle</mask>
       <mask>*.properties</mask>
       <mask>*.gradle</mask>
       <mask>*.json</mask>
       <mask>*.kt</mask>
+      <mask>*.xml</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>
