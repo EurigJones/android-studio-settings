@@ -34,10 +34,10 @@
       <mask>*.gradle</mask>
       <mask>*.json</mask>
       <mask>*.*</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
       <mask>*.kt</mask>
+      <mask>*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
