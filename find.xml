@@ -7,9 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*Module.*" />
     <recentFileMasks>
-      <mask>*.pro</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.ja</mask>
@@ -39,6 +38,7 @@
       <mask>*.xml</mask>
       <mask>*.xml</mask>
       <mask>*.*</mask>
+      <mask>*Module.*</mask>
     </recentFileMasks>
   </component>
 </application>
