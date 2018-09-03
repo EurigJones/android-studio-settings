@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Activity.kt" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.ja</mask>
       <mask>*.ja</mask>
@@ -31,7 +31,6 @@
       <mask>*.gradle</mask>
       <mask>*.json</mask>
       <mask>*Module.*</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
@@ -39,6 +38,7 @@
       <mask>*.kt</mask>
       <mask>*Activity.java</mask>
       <mask>*Activity.kt</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
