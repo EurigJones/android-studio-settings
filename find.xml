@@ -33,11 +33,11 @@
       <mask>*Module.*</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*.*</mask>
       <mask>*.kt</mask>
       <mask>*Activity.java</mask>
       <mask>*Activity.kt</mask>
+      <mask>*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
