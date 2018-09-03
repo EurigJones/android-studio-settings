@@ -7,10 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*Activity.kt" />
     <recentFileMasks>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
       <mask>*.ja</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
@@ -37,8 +35,10 @@
       <mask>*.java</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
-      <mask>*.kt</mask>
       <mask>*.*</mask>
+      <mask>*.kt</mask>
+      <mask>*Activity.java</mask>
+      <mask>*Activity.kt</mask>
     </recentFileMasks>
   </component>
 </application>
