@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/creditcards/cardcontrol/budget [Common]'" />
-    <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/creditcards/cardcontrol/budget [Common]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/creditcards/cardcontrol/budget [Common]'" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.ja</mask>
       <mask>*.ja</mask>
@@ -33,12 +33,12 @@
       <mask>*Module.*</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
-      <mask>*.*</mask>
       <mask>*.kt</mask>
       <mask>*Activity.java</mask>
       <mask>*Activity.kt</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
