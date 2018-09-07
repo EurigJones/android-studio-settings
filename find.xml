@@ -34,10 +34,10 @@
       <mask>*Activity.java</mask>
       <mask>*Activity.kt</mask>
       <mask>*.*</mask>
-      <mask>*.java</mask>
       <mask>*.kt</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
