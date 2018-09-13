@@ -36,8 +36,8 @@
       <mask>*.kt</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.gradle</mask>
+      <mask>*.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
