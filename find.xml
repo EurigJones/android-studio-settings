@@ -29,13 +29,13 @@
       <mask>*Activity.java</mask>
       <mask>*Activity.kt</mask>
       <mask>*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.gradle</mask>
       <mask>*.java</mask>
       <mask>*.*</mask>
       <mask>*.java</mask>
       <mask>*</mask>
       <mask>*.json</mask>
+      <mask>*.xml</mask>
       <mask>*.kt</mask>
     </recentFileMasks>
   </component>
