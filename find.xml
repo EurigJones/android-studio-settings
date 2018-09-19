@@ -30,12 +30,12 @@
       <mask>*Activity.kt</mask>
       <mask>*.gradle</mask>
       <mask>*.*</mask>
-      <mask>*.java</mask>
       <mask>*</mask>
       <mask>*.json</mask>
       <mask>*.kt</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
