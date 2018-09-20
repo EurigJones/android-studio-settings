@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.xt" />
     <recentFileMasks>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.kt, *.xml</mask>
@@ -37,6 +36,7 @@
       <mask>*.xml</mask>
       <mask>*.xml</mask>
       <mask>*.kt</mask>
+      <mask>*.xt</mask>
     </recentFileMasks>
   </component>
 </application>
