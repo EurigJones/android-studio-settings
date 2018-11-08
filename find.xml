@@ -20,6 +20,7 @@
     <mask>strings*.*</mask>
     <mask>*.xml</mask>
     <mask>*.</mask>
+    <mask>*.gradle</mask>
     <mask>*.*</mask>
   </component>
 </application>
