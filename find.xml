@@ -18,6 +18,7 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>*Test.*</mask>
     <mask>*.*</mask>
   </component>
 </application>
