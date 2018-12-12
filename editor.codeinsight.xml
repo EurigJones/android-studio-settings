@@ -12,6 +12,7 @@
     <EXCLUDED_PACKAGE NAME="android.support.v7.widget.RecyclerView.ViewHolder" />
     <EXCLUDED_PACKAGE NAME="co.uk.rbsg.mobile.android.binding.BindingUtils.notifyPropertiesChanged" />
     <EXCLUDED_PACKAGE NAME="java.lang.String.format" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.Assert.assertEquals" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
