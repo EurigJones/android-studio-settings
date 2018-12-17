@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,11 +14,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.txt</mask>
-    <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*Test.*</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.*</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
