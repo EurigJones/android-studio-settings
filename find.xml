@@ -17,9 +17,9 @@
     <mask>*Test.*</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.java, *.kt</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.java, *.kt</mask>
     <mask>*.*</mask>
   </component>
 </application>
