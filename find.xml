@@ -15,11 +15,11 @@
     <mask>*.txt</mask>
     <mask>*Test.*</mask>
     <mask>*.java</mask>
-    <mask>*.kt</mask>
     <mask>*.java, *.kt</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
     <mask>*.*</mask>
   </component>
 </application>
