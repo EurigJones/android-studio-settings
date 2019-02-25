@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -15,11 +15,11 @@
     <mask>*.properties</mask>
     <mask>*.java, *.kt</mask>
     <mask>*.java, *.kt, *.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*Domain.*</mask>
     <mask>*.*</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
