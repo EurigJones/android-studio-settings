@@ -17,9 +17,9 @@
     <mask>*.java, *.kt, *.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Domain.*</mask>
-    <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*.*</mask>
   </component>
 </application>
