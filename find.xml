@@ -23,6 +23,7 @@
     <mask>strings.xml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>colors.xml</mask>
     <mask>*.*</mask>
   </component>
 </application>
