@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -12,13 +14,16 @@
     <mask>*.mxml</mask>
     <mask>*.txt</mask>
     <mask>*Test.*</mask>
-    <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.kt</mask>
     <mask>*.java, *.kt</mask>
     <mask>*.java, *.kt, *.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*Domain.*</mask>
+    <mask>*.kt</mask>
+    <mask>strings.xml</mask>
+    <mask>*.java</mask>
+    <mask>colors.xml</mask>
     <mask>*.*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
