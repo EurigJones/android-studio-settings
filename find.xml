@@ -19,11 +19,11 @@
     <mask>*.java, *.kt, *.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Domain.*</mask>
-    <mask>*.kt</mask>
     <mask>strings.xml</mask>
     <mask>*.java</mask>
     <mask>colors.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
     <mask>*.*</mask>
   </component>
 </application>
