@@ -135,4 +135,7 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="ViewSource" />
+  <action id="android.fd.HotswapAction">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
 </keymap>
