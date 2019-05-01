@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*va" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -23,10 +23,10 @@
     <mask>*.gradle</mask>
     <mask>*.properties</mask>
     <mask>*Adapter.kt</mask>
-    <mask>*.*</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.*va</mask>
+    <mask>*.*</mask>
   </component>
 </application>
