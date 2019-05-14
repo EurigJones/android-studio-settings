@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/mps/registration [Common]'" />
-    <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/mps/registration [Common]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/mps/registration [Common]'" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -23,10 +23,10 @@
     <mask>*.gradle</mask>
     <mask>*.properties</mask>
     <mask>*Adapter.kt</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.*va</mask>
     <mask>*.*</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
