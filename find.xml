@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -26,9 +26,9 @@
     <mask>*.*va</mask>
     <mask>*.kt</mask>
     <mask>*Navigator.*</mask>
-    <mask>*.xml</mask>
     <mask>MPS*.*</mask>
     <mask>*Domain.*</mask>
     <mask>*.*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
