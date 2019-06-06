@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -22,7 +22,6 @@
     <mask>*.gradle</mask>
     <mask>*.properties</mask>
     <mask>*Adapter.kt</mask>
-    <mask>*.java</mask>
     <mask>*.*va</mask>
     <mask>*Navigator.*</mask>
     <mask>MPS*.*</mask>
@@ -30,5 +29,6 @@
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>*.java</mask>
   </component>
 </application>
