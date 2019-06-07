@@ -26,10 +26,10 @@
     <mask>*Navigator.*</mask>
     <mask>MPS*.*</mask>
     <mask>*Domain.*</mask>
-    <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.*</mask>
     <mask>*.kt</mask>
+    <mask>*.java</mask>
     <mask>*.xml</mask>
   </component>
 </application>
