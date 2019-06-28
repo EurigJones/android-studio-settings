@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Fragment.*" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -30,7 +30,7 @@
     <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
-    <mask>*.*</mask>
     <mask>*Fragment.*</mask>
+    <mask>*.*</mask>
   </component>
 </application>
