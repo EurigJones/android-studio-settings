@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="SCA*.*" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -28,8 +28,8 @@
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>SCA*.*</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
-    <mask>SCA*.*</mask>
   </component>
 </application>
