@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -17,7 +17,6 @@
     <mask>strings.xml</mask>
     <mask>colors.xml</mask>
     <mask>*Navigator.kt</mask>
-    <mask>*.gradle</mask>
     <mask>*.properties</mask>
     <mask>*Adapter.kt</mask>
     <mask>*.*va</mask>
@@ -32,5 +31,6 @@
     <mask>*.java</mask>
     <mask>*Commands.*</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
