@@ -29,9 +29,9 @@
     <mask>SCA*.*</mask>
     <mask>*.java</mask>
     <mask>*Commands.*</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.KT</mask>
+    <mask>*.xml</mask>
     <mask>*.*</mask>
   </component>
 </application>
