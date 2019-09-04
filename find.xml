@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -25,14 +25,14 @@
     <mask>*Fragment.*</mask>
     <mask>*.json</mask>
     <mask>SCA*.*</mask>
-    <mask>*.java</mask>
     <mask>*Commands.*</mask>
     <mask>*.gradle</mask>
     <mask>*.KT</mask>
     <mask>*Adapter.*</mask>
-    <mask>*.xml</mask>
     <mask>*Bindings.*</mask>
     <mask>*.*</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
