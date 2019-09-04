@@ -30,9 +30,9 @@
     <mask>*.KT</mask>
     <mask>*Adapter.*</mask>
     <mask>*Bindings.*</mask>
-    <mask>*.*</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.*</mask>
     <mask>*.java</mask>
   </component>
 </application>
