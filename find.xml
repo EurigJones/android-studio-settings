@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
-    <mask>*.jsp</mask>
+    <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/betteroff [Common]'" />
+    <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/betteroff [Common]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/betteroff [Common]'" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -30,9 +29,10 @@
     <mask>*.KT</mask>
     <mask>*Adapter.*</mask>
     <mask>*Bindings.*</mask>
-    <mask>*.xml</mask>
-    <mask>*.*</mask>
     <mask>*.java</mask>
+    <mask>*.*</mask>
     <mask>*.kt</mask>
+    <mask>Spending*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
