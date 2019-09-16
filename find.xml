@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.txt" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -24,7 +24,6 @@
     <mask>*.json</mask>
     <mask>SCA*.*</mask>
     <mask>*Commands.*</mask>
-    <mask>*.gradle</mask>
     <mask>*.KT</mask>
     <mask>*Adapter.*</mask>
     <mask>*Bindings.*</mask>
@@ -34,5 +33,6 @@
     <mask>*.*</mask>
     <mask>*.kt</mask>
     <mask>*.txt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
