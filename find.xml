@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -21,18 +21,18 @@
     <mask>MPS*.*</mask>
     <mask>*Domain.*</mask>
     <mask>*Fragment.*</mask>
-    <mask>*.json</mask>
     <mask>SCA*.*</mask>
     <mask>*Commands.*</mask>
     <mask>*.KT</mask>
     <mask>*Adapter.*</mask>
     <mask>*Bindings.*</mask>
     <mask>Spending*.kt</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.txt</mask>
     <mask>*.gradle</mask>
     <mask>*.*</mask>
+    <mask>*.json</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
