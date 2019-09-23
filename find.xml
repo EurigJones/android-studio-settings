@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -34,7 +34,7 @@
     <mask>*.gradle</mask>
     <mask>*.*</mask>
     <mask>*.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.json</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
