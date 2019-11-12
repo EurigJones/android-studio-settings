@@ -30,9 +30,9 @@
     <mask>spending*.xml</mask>
     <mask>*PDF*.*</mask>
     <mask>*.json</mask>
-    <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
     <mask>*.*</mask>
   </component>
 </application>
