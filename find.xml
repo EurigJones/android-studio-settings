@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.mxml</mask>
     <mask>*Test.*</mask>
     <mask>*.java, *.kt</mask>
@@ -30,11 +30,11 @@
     <mask>spending*.xml</mask>
     <mask>*PDF*.*</mask>
     <mask>*.json</mask>
-    <mask>*.*</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>menu*.xml</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.*</mask>
   </component>
 </application>
