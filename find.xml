@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*ViewModel.*" />
     <mask>*Test.*</mask>
     <mask>*.java, *.kt</mask>
     <mask>*.java, *.kt, *.xml</mask>
@@ -15,7 +15,6 @@
     <mask>*.*va</mask>
     <mask>*Navigator.*</mask>
     <mask>MPS*.*</mask>
-    <mask>*Domain.*</mask>
     <mask>*Fragment.*</mask>
     <mask>SCA*.*</mask>
     <mask>*Commands.*</mask>
@@ -32,7 +31,8 @@
     <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
-    <mask>*ViewModel.*</mask>
     <mask>*.*</mask>
+    <mask>*Domain.*</mask>
+    <mask>*ViewModel.*</mask>
   </component>
 </application>
