@@ -5,8 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>*.java, *.kt, *.xml</mask>
+    <option name="FILE_MASK" value="Util*.java" />
     <mask>strings.xml</mask>
     <mask>colors.xml</mask>
     <mask>*Navigator.kt</mask>
@@ -36,5 +35,6 @@
     <mask>*String*.*</mask>
     <mask>styles.xml</mask>
     <mask>*.*</mask>
+    <mask>Util*.java</mask>
   </component>
 </application>
