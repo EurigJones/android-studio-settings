@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="demo" type="PLAIN_TEXT" />
       <mapping pattern="popup_bubble_right_tinted" type="XML" />
+      <mapping pattern="charity_details" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
