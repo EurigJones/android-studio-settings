@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>*Navigator.kt</mask>
+    <option name="FILE_MASK" value="Spending*.*" />
     <mask>*.properties</mask>
     <mask>*Adapter.kt</mask>
     <mask>*.*va</mask>
@@ -34,5 +33,6 @@
     <mask>*Command*.*</mask>
     <mask>*Activity.*</mask>
     <mask>*.*</mask>
+    <mask>Spending*.*</mask>
   </component>
 </application>
