@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.*" />
-    <mask>colors.xml</mask>
     <mask>*Navigator.kt</mask>
     <mask>*.properties</mask>
     <mask>*Adapter.kt</mask>
@@ -33,6 +32,7 @@
     <mask>*.xml</mask>
     <mask>*Domain.*</mask>
     <mask>*Command*.*</mask>
+    <mask>*Activity.*</mask>
     <mask>*.*</mask>
   </component>
 </application>
