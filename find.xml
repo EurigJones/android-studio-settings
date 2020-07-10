@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="Spending*.*" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.properties</mask>
     <mask>*Adapter.kt</mask>
     <mask>*.*va</mask>
@@ -32,7 +32,7 @@
     <mask>*Domain.*</mask>
     <mask>*Command*.*</mask>
     <mask>*Activity.*</mask>
-    <mask>*.*</mask>
     <mask>Spending*.*</mask>
+    <mask>*.*</mask>
   </component>
 </application>
