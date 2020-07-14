@@ -30,11 +30,11 @@
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
     <mask>*Domain.*</mask>
     <mask>*Command*.*</mask>
     <mask>*Activity.*</mask>
     <mask>Spending*.*</mask>
+    <mask>*.xml</mask>
     <mask>*.*</mask>
   </component>
 </application>
