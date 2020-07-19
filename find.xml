@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/payments/limits [Common]'" />
-    <option name="defaultScopeName" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/payments/limits [Common]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Common/src/main/java/co/uk/rbsg/mobile/android/feature/payments/limits [Common]'" />
-    <option name="FILE_MASK" value="*Module.*" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*Adapter.kt</mask>
     <mask>*.*va</mask>
     <mask>*Navigator.*</mask>
@@ -34,7 +34,7 @@
     <mask>*Activity.*</mask>
     <mask>Spending*.*</mask>
     <mask>*.xml</mask>
-    <mask>*.*</mask>
     <mask>*Module.*</mask>
+    <mask>*.*</mask>
   </component>
 </application>
