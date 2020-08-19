@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*Navigator.*</mask>
     <mask>MPS*.*</mask>
     <mask>*Fragment.*</mask>
@@ -28,11 +28,11 @@
     <mask>Spending*.*</mask>
     <mask>*Module.*</mask>
     <mask>colors.xml</mask>
-    <mask>*.kt</mask>
     <mask>Mplatform*.java</mask>
     <mask>*Domain.*</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
