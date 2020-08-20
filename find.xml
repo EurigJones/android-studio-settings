@@ -3,12 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*Commands.*" />
     <mask>*Navigator.*</mask>
     <mask>MPS*.*</mask>
     <mask>*Fragment.*</mask>
     <mask>SCA*.*</mask>
-    <mask>*Commands.*</mask>
     <mask>*.KT</mask>
     <mask>*Adapter.*</mask>
     <mask>*Bindings.*</mask>
@@ -34,5 +33,6 @@
     <mask>*.xml</mask>
     <mask>*.kt</mask>
     <mask>*.*</mask>
+    <mask>*Commands.*</mask>
   </component>
 </application>
