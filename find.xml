@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*Navigator.*</mask>
     <mask>MPS*.*</mask>
     <mask>*Fragment.*</mask>
@@ -31,8 +31,8 @@
     <mask>*Domain.*</mask>
     <mask>*.java</mask>
     <mask>*Commands.*</mask>
-    <mask>*.*</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.*</mask>
   </component>
 </application>
