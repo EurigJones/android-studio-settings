@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*Navigator.*</mask>
     <mask>MPS*.*</mask>
     <mask>*Fragment.*</mask>
@@ -15,7 +15,6 @@
     <mask>*.txt</mask>
     <mask>spending*.xml</mask>
     <mask>*PDF*.*</mask>
-    <mask>*.gradle</mask>
     <mask>menu*.xml</mask>
     <mask>*ViewModel.*</mask>
     <mask>*String*.*</mask>
@@ -34,5 +33,6 @@
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
