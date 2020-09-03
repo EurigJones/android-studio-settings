@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*Domain.*" />
     <mask>*Navigator.*</mask>
     <mask>MPS*.*</mask>
     <mask>*Fragment.*</mask>
@@ -29,12 +29,12 @@
     <mask>*Module.*</mask>
     <mask>colors.xml</mask>
     <mask>Mplatform*.java</mask>
-    <mask>*Domain.*</mask>
     <mask>*.java</mask>
     <mask>*Commands.*</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.*</mask>
+    <mask>*Domain.*</mask>
   </component>
 </application>
