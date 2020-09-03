@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Domain.*" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*Navigator.*</mask>
     <mask>MPS*.*</mask>
     <mask>*Fragment.*</mask>
@@ -22,7 +22,6 @@
     <mask>*String*.*</mask>
     <mask>styles.xml</mask>
     <mask>Util*.java</mask>
-    <mask>*.json</mask>
     <mask>*Command*.*</mask>
     <mask>*Activity.*</mask>
     <mask>Spending*.*</mask>
@@ -36,5 +35,6 @@
     <mask>*.gradle</mask>
     <mask>*.*</mask>
     <mask>*Domain.*</mask>
+    <mask>*.json</mask>
   </component>
 </application>
