@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*Navigator.*</mask>
     <mask>MPS*.*</mask>
     <mask>*Fragment.*</mask>
@@ -30,11 +28,11 @@
     <mask>Mplatform*.java</mask>
     <mask>*.java</mask>
     <mask>*Commands.*</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Domain.*</mask>
     <mask>*.json</mask>
     <mask>*.*</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
