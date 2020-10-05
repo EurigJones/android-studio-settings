@@ -29,10 +29,10 @@
     <mask>*Commands.*</mask>
     <mask>*.gradle</mask>
     <mask>*Domain.*</mask>
-    <mask>*.json</mask>
     <mask>*.kt</mask>
     <mask>*.XML</mask>
     <mask>*.xml</mask>
+    <mask>*.json</mask>
     <mask>*.*</mask>
   </component>
 </application>
