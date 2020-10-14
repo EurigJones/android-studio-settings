@@ -31,8 +31,8 @@
     <mask>*Domain.*</mask>
     <mask>*.kt</mask>
     <mask>*.XML</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
+    <mask>*.xml</mask>
     <mask>*.*</mask>
   </component>
 </application>
