@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>MPS*.*</mask>
     <mask>*Fragment.*</mask>
     <mask>SCA*.*</mask>
@@ -27,12 +27,12 @@
     <mask>Mplatform*.java</mask>
     <mask>*Commands.*</mask>
     <mask>*Domain.*</mask>
-    <mask>*.kt</mask>
     <mask>*.XML</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
