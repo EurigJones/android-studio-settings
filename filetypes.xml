@@ -9,6 +9,7 @@
       <mapping ext="demo" type="PLAIN_TEXT" />
       <mapping pattern="charity_details" type="XML" />
       <mapping pattern="popup_bubble_right_tinted" type="XML" />
+      <mapping pattern="item_detail_1" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
