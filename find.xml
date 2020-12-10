@@ -13,7 +13,6 @@
     <mask>SCA*.*</mask>
     <mask>*.KT</mask>
     <mask>*Adapter.*</mask>
-    <mask>*Bindings.*</mask>
     <mask>Spending*.kt</mask>
     <mask>*.txt</mask>
     <mask>spending*.xml</mask>
@@ -37,6 +36,7 @@
     <mask>*.kt</mask>
     <mask>*.json</mask>
     <mask>*.gradle</mask>
+    <mask>*Bindings.*</mask>
     <mask>*.*</mask>
   </component>
 </application>
