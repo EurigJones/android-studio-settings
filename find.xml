@@ -29,7 +29,6 @@
     <mask>*Commands.*</mask>
     <mask>*Domain.*</mask>
     <mask>*.XML</mask>
-    <mask>*.java</mask>
     <mask>styles.xml</mask>
     <mask>*.kt</mask>
     <mask>*.json</mask>
@@ -37,6 +36,7 @@
     <mask>*TextWatcher.*</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
     <mask>*.*</mask>
   </component>
 </application>
