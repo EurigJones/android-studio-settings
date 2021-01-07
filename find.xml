@@ -6,7 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.*" />
-    <mask>*Fragment.*</mask>
     <mask>SCA*.*</mask>
     <mask>*.KT</mask>
     <mask>*Adapter.*</mask>
@@ -35,6 +34,7 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*Domain.*</mask>
+    <mask>*.properties</mask>
     <mask>*.*</mask>
   </component>
 </application>
