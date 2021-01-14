@@ -32,9 +32,9 @@
     <mask>*Navigator.kt</mask>
     <mask>*.proper</mask>
     <mask>*.*</mask>
-    <mask>*.kt</mask>
     <mask>*Enum.kt</mask>
     <mask>*Fragment.kt</mask>
+    <mask>*.kt</mask>
     <mask>*.xml</mask>
   </component>
 </application>
