@@ -5,8 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Navigator.kt" />
-    <mask>*.KT</mask>
+    <option name="FILE_MASK" value="*.*" />
     <mask>*Adapter.*</mask>
     <mask>Spending*.kt</mask>
     <mask>*.txt</mask>
@@ -32,9 +31,10 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
-    <mask>*.*</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
     <mask>*Navigator.kt</mask>
+    <mask>*.proper</mask>
+    <mask>*.*</mask>
   </component>
 </application>
