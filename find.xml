@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="themes.xml" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*PDF*.*</mask>
     <mask>menu*.xml</mask>
     <mask>*ViewModel.*</mask>
@@ -32,9 +30,9 @@
     <mask>*Enum.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>style.xml</mask>
     <mask>themes.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
