@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*PDF*.*</mask>
     <mask>menu*.xml</mask>
     <mask>*ViewModel.*</mask>
@@ -20,7 +20,6 @@
     <mask>styles.xml</mask>
     <mask>*Bindings.*</mask>
     <mask>*TextWatcher.*</mask>
-    <mask>*.gradle</mask>
     <mask>*Domain.*</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
@@ -34,5 +33,6 @@
     <mask>style.xml</mask>
     <mask>themes.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
