@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="themes.xml" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*PDF*.*</mask>
     <mask>menu*.xml</mask>
     <mask>*ViewModel.*</mask>
@@ -34,7 +34,7 @@
     <mask>style.xml</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
-    <mask>*.*</mask>
     <mask>themes.xml</mask>
+    <mask>*.*</mask>
   </component>
 </application>
