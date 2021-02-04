@@ -5,8 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
-    <mask>menu*.xml</mask>
+    <option name="FILE_MASK" value="*." />
     <mask>*ViewModel.*</mask>
     <mask>*String*.*</mask>
     <mask>Util*.java</mask>
@@ -36,5 +35,6 @@
     <mask>*.*</mask>
     <mask>referencedata-default.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.</mask>
   </component>
 </application>
