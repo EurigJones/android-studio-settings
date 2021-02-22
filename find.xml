@@ -5,13 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>*ViewModel.*</mask>
-    <mask>*String*.*</mask>
-    <mask>Util*.java</mask>
-    <mask>*Command*.*</mask>
-    <mask>*Activity.*</mask>
-    <mask>Spending*.*</mask>
+    <option name="FILE_MASK" value="*Fragment.java" />
     <mask>*Module.*</mask>
     <mask>colors.xml</mask>
     <mask>Mplatform*.java</mask>
@@ -27,7 +21,6 @@
     <mask>*Navigator.kt</mask>
     <mask>*.proper</mask>
     <mask>*Enum.kt</mask>
-    <mask>*Fragment.kt</mask>
     <mask>*.kt</mask>
     <mask>style.xml</mask>
     <mask>*.gradle</mask>
@@ -36,5 +29,12 @@
     <mask>*.xml</mask>
     <mask>*.</mask>
     <mask>*.*</mask>
+    <mask>*Impl.java</mask>
+    <mask>*Activity.*</mask>
+    <mask>*Fragment.*</mask>
+    <mask>*Activity.kt</mask>
+    <mask>*Activity.java</mask>
+    <mask>*Fragment.kt</mask>
+    <mask>*Fragment.java</mask>
   </component>
 </application>
