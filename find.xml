@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*Module.*</mask>
     <mask>colors.xml</mask>
     <mask>Mplatform*.java</mask>
@@ -17,7 +17,6 @@
     <mask>*Domain.*</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.json</mask>
     <mask>*Navigator.kt</mask>
     <mask>*.proper</mask>
     <mask>*Enum.kt</mask>
@@ -36,5 +35,6 @@
     <mask>*Fragment.java</mask>
     <mask>*.kt</mask>
     <mask>*.*</mask>
+    <mask>*.json</mask>
   </component>
 </application>
