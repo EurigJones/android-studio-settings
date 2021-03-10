@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Bindings.*" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>colors.xml</mask>
     <mask>Mplatform*.java</mask>
     <mask>*Commands.*</mask>
@@ -32,9 +32,9 @@
     <mask>*Fragment.java</mask>
     <mask>*.json</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
     <mask>styleable.xml</mask>
     <mask>*.*</mask>
     <mask>*Bindings.*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
