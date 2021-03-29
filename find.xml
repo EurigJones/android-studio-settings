@@ -3,9 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>Mplatform*.java</mask>
     <mask>*Commands.*</mask>
     <mask>*.XML</mask>
@@ -30,11 +32,11 @@
     <mask>*Fragment.kt</mask>
     <mask>*Fragment.java</mask>
     <mask>*.json</mask>
-    <mask>*.kt</mask>
     <mask>styleable.xml</mask>
     <mask>*Bindings.*</mask>
     <mask>*ViewModel.*</mask>
-    <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
