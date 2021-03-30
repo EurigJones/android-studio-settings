@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>Mplatform*.java</mask>
     <mask>*Commands.*</mask>
     <mask>*.XML</mask>
@@ -35,8 +35,8 @@
     <mask>styleable.xml</mask>
     <mask>*Bindings.*</mask>
     <mask>*ViewModel.*</mask>
-    <mask>*.*</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.*</mask>
   </component>
 </application>
