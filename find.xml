@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*Commands.*</mask>
     <mask>*.XML</mask>
     <mask>styles.xml</mask>
@@ -32,7 +32,7 @@
     <mask>*Domain.*</mask>
     <mask>*.properties</mask>
     <mask>*</mask>
-    <mask>*.*</mask>
     <mask>*.gradle</mask>
+    <mask>*.*</mask>
   </component>
 </application>
