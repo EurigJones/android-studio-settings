@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*Commands.*</mask>
     <mask>*.XML</mask>
     <mask>styles.xml</mask>
@@ -26,7 +26,6 @@
     <mask>*Activity.java</mask>
     <mask>*Fragment.kt</mask>
     <mask>*Fragment.java</mask>
-    <mask>*.json</mask>
     <mask>styleable.xml</mask>
     <mask>*Bindings.*</mask>
     <mask>*ViewModel.*</mask>
@@ -38,5 +37,6 @@
     <mask>*</mask>
     <mask>*.gradle</mask>
     <mask>*.*</mask>
+    <mask>*.json</mask>
   </component>
 </application>
