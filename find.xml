@@ -5,8 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>*.XML</mask>
+    <option name="FILE_MASK" value="*.kt" />
     <mask>styles.xml</mask>
     <mask>*TextWatcher.*</mask>
     <mask>*Navigator.kt</mask>
@@ -26,7 +25,6 @@
     <mask>styleable.xml</mask>
     <mask>*Bindings.*</mask>
     <mask>*ViewModel.*</mask>
-    <mask>*.kt</mask>
     <mask>*Domain.*</mask>
     <mask>*.properties</mask>
     <mask>*</mask>
@@ -36,5 +34,7 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>multi_currency*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>

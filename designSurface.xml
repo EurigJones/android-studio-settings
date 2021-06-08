@@ -10,6 +10,10 @@
         <entry key="Common/src/main/res/layout/ipay_payee_picker.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/multi_currency_account_details.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/multi_currency_account_fragment.xml" value="0.1" />
+        <entry key="Common/src/main/res/layout/multi_currency_choose_currency.xml" value="0.2234375" />
+        <entry key="Common/src/main/res/layout/multi_currency_fixture_details_fragment.xml" value="0.2234375" />
+        <entry key="Common/src/main/res/layout/multi_currency_transaction_details_fragment.xml" value="0.2234375" />
+        <entry key="Common/src/main/res/layout/multi_currency_transfers_done.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/view_payment_limit_detail.xml" value="0.13500506585612967" />
       </map>
     </option>
