@@ -4,6 +4,7 @@
       <map>
         <entry key="Common/src/main/res/layout/ipay_confirm.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_message_reference.xml" value="0.1" />
+        <entry key="Common/src/main/res/layout/ipay_newpayee_country_form.xml" value="0.2552083333333333" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_currency_picker.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_splash.xml" value="0.19166666666666668" />
         <entry key="Common/src/main/res/layout/ipay_payee_info.xml" value="0.19166666666666668" />
