@@ -18,6 +18,7 @@
         <entry key="Common/src/main/res/layout/multi_currency_fixture_details_fragment.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/multi_currency_transaction_details_fragment.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/multi_currency_transfers_done.xml" value="0.2234375" />
+        <entry key="Common/src/main/res/layout/uidemo_section_inputfield_help.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/unipay_done_layout.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/view_payment_limit_detail.xml" value="0.13500506585612967" />
       </map>
