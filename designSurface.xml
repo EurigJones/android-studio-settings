@@ -7,7 +7,7 @@
         <entry key="Common/src/main/res/layout/debit_card_controls_overlay_turn_off_control.xml" value="0.2552083333333333" />
         <entry key="Common/src/main/res/layout/ipay_confirm.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_message_reference.xml" value="0.1" />
-        <entry key="Common/src/main/res/layout/ipay_newpayee_beneficiary_one.xml" value="0.2957427536231884" />
+        <entry key="Common/src/main/res/layout/ipay_newpayee_beneficiary_one.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_country_and_currency.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_country_form.xml" value="0.2552083333333333" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_currency_picker.xml" value="0.2234375" />
@@ -25,6 +25,7 @@
         <entry key="Common/src/main/res/layout/multi_currency_transaction_details_fragment.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/multi_currency_transfers_done.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/uicomponent_textinputlayout_wrapper.xml" value="0.1" />
+        <entry key="Common/src/main/res/layout/uidemo_section_inputfield_amount.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/uidemo_section_inputfield_help.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/uidemo_section_inputfield_standard.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/unipay_done_layout.xml" value="0.1" />
