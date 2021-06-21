@@ -24,6 +24,7 @@
         <entry key="Common/src/main/res/layout/multi_currency_fixture_details_fragment.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/multi_currency_transaction_details_fragment.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/multi_currency_transfers_done.xml" value="0.2234375" />
+        <entry key="Common/src/main/res/layout/psr_transfer_confirmation.xml" value="0.196875" />
         <entry key="Common/src/main/res/layout/uicomponent_textinputlayout_wrapper.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/uidemo_section_inputfield_amount.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/uidemo_section_inputfield_help.xml" value="0.1" />
