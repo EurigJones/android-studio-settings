@@ -8,6 +8,7 @@
         <entry key="Common/src/main/res/layout/ipay_confirm.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_message_reference.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_beneficiary_one.xml" value="0.1" />
+        <entry key="Common/src/main/res/layout/ipay_newpayee_beneficiary_two.xml" value="0.12135416666666667" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_country_and_currency.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_country_form.xml" value="0.2552083333333333" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_currency_picker.xml" value="0.2234375" />
