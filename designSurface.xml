@@ -37,6 +37,7 @@
         <entry key="Common/src/main/res/layout/unipay_done_layout.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/unipay_form.xml" value="0.17604166666666668" />
         <entry key="Common/src/main/res/layout/unipay_form_review_payment_button.xml" value="0.1" />
+        <entry key="Common/src/main/res/layout/unipay_sca_confirm.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/view_payment_limit_detail.xml" value="0.13500506585612967" />
       </map>
     </option>
