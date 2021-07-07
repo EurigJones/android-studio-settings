@@ -3,6 +3,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="Common/src/main/res/drawable/chevron_down_active.xml" value="0.20729166666666668" />
+        <entry key="Common/src/main/res/drawable/chevron_selector.xml" value="0.20729166666666668" />
         <entry key="Common/src/main/res/layout/ados_biometric_faqs.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/debit_card_controls_overlay_turn_off_control.xml" value="0.2552083333333333" />
         <entry key="Common/src/main/res/layout/ipay_choose_new_payee_details.xml" value="0.18385416666666668" />
