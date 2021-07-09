@@ -10,7 +10,7 @@
         <entry key="Common/src/main/res/layout/ipay_choose_new_payee_details.xml" value="0.18385416666666668" />
         <entry key="Common/src/main/res/layout/ipay_choose_saved_payee_details.xml" value="0.18385416666666668" />
         <entry key="Common/src/main/res/layout/ipay_confirm.xml" value="0.1" />
-        <entry key="Common/src/main/res/layout/ipay_form.xml" value="0.1" />
+        <entry key="Common/src/main/res/layout/ipay_form.xml" value="0.1585144927536232" />
         <entry key="Common/src/main/res/layout/ipay_message_reference.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_beneficiary_one.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_newpayee_beneficiary_two.xml" value="0.12135416666666667" />
