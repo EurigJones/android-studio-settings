@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Fragment.*" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>styles.xml</mask>
     <mask>*TextWatcher.*</mask>
     <mask>*Navigator.kt</mask>
@@ -32,7 +32,7 @@
     <mask>*Bindings.*</mask>
     <mask>*.java</mask>
     <mask>*Activity.*</mask>
-    <mask>*.*</mask>
     <mask>*Fragment.*</mask>
+    <mask>*.*</mask>
   </component>
 </application>
