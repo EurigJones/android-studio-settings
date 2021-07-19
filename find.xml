@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>styles.xml</mask>
     <mask>*TextWatcher.*</mask>
     <mask>*Navigator.kt</mask>
@@ -28,11 +28,11 @@
     <mask>multi_currency*.xml</mask>
     <mask>IPay*.*</mask>
     <mask>*Bindings.*</mask>
-    <mask>*.java</mask>
     <mask>*Activity.*</mask>
     <mask>*Fragment.*</mask>
     <mask>*.*</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
