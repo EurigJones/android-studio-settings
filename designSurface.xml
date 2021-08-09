@@ -27,6 +27,7 @@
         <entry key="Common/src/main/res/layout/ipay_quote_delivery_type_picker.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_quote_form.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_quote_product_fee_type_picker.xml" value="0.196875" />
+        <entry key="Common/src/main/res/layout/loading_fullscreen_dialog_layout.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/multi_currency_account_details.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/multi_currency_account_fragment.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/multi_currency_choose_currency.xml" value="0.2234375" />
