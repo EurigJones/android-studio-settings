@@ -30,11 +30,11 @@
     <mask>*Bindings.*</mask>
     <mask>*Activity.*</mask>
     <mask>*Fragment.*</mask>
-    <mask>*.java</mask>
     <mask>*Domain.*</mask>
     <mask>*.kt</mask>
-    <mask>*.json</mask>
     <mask>*.xml</mask>
+    <mask>*.json</mask>
+    <mask>*.java</mask>
     <mask>*.*</mask>
   </component>
 </application>
