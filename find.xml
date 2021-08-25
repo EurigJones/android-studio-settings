@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*conf*.*" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*TextWatcher.*</mask>
     <mask>*Navigator.kt</mask>
     <mask>*.proper</mask>
@@ -34,7 +34,7 @@
     <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
-    <mask>*.*</mask>
     <mask>*conf*.*</mask>
+    <mask>*.*</mask>
   </component>
 </application>

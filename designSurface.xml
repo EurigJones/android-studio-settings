@@ -24,7 +24,7 @@
         <entry key="Common/src/main/res/layout/ipay_newpayee_splash_old.xml" value="0.196875" />
         <entry key="Common/src/main/res/layout/ipay_payee_info.xml" value="0.19166666666666668" />
         <entry key="Common/src/main/res/layout/ipay_payee_picker.xml" value="0.1" />
-        <entry key="Common/src/main/res/layout/ipay_payee_picker_item.xml" value="0.19655797101449277" />
+        <entry key="Common/src/main/res/layout/ipay_payee_picker_item.xml" value="0.25" />
         <entry key="Common/src/main/res/layout/ipay_quote_delivery_type_picker.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_quote_form.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_quote_product_fee_type_picker.xml" value="0.196875" />
