@@ -38,6 +38,7 @@
         <entry key="Common/src/main/res/layout/multi_currency_transfers_done.xml" value="0.2234375" />
         <entry key="Common/src/main/res/layout/pdf_layout_international_payments.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/pdf_layout_payments.xml" value="0.19655797101449277" />
+        <entry key="Common/src/main/res/layout/preference.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/products_layout.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/psr_transfer_confirmation.xml" value="0.196875" />
         <entry key="Common/src/main/res/layout/sca_confirm.xml" value="0.1" />
