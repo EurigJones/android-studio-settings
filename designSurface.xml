@@ -57,6 +57,7 @@
         <entry key="Common/src/main/res/menu/menu_feature_iplvp.xml" value="0.19270833333333334" />
         <entry key="Common/src/main/res/menu/menu_feature_payments.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1852355072463768" />
+        <entry key="app/src/main/res/layout/activity_success.xml" value="0.1" />
       </map>
     </option>
   </component>
