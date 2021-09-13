@@ -10,6 +10,7 @@
         <entry key="Common/src/main/res/layout/debit_card_controls_overlay_turn_off_control.xml" value="0.2552083333333333" />
         <entry key="Common/src/main/res/layout/enrolment_intro_one.xml" value="0.17654508611955422" />
         <entry key="Common/src/main/res/layout/fragment_transaction_view.xml" value="0.17708333333333334" />
+        <entry key="Common/src/main/res/layout/il_hub.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_amount_picker.xml" value="0.1" />
         <entry key="Common/src/main/res/layout/ipay_choose_new_payee_details.xml" value="0.18385416666666668" />
         <entry key="Common/src/main/res/layout/ipay_choose_saved_payee_details.xml" value="0.18385416666666668" />
