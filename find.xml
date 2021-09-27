@@ -24,7 +24,6 @@
     <mask>IPay*.*</mask>
     <mask>*Bindings.*</mask>
     <mask>*Activity.*</mask>
-    <mask>*Fragment.*</mask>
     <mask>*Domain.*</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
@@ -33,6 +32,7 @@
     <mask>*Module.*</mask>
     <mask>*Navigator.*</mask>
     <mask>*.xml</mask>
+    <mask>*Fragment.*</mask>
     <mask>*.*</mask>
   </component>
 </application>
