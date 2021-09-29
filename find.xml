@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Carbon*.*" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*Enum.kt</mask>
     <mask>style.xml</mask>
     <mask>themes.xml</mask>
@@ -32,7 +32,7 @@
     <mask>*Navigator.*</mask>
     <mask>*.xml</mask>
     <mask>*Fragment.*</mask>
-    <mask>*.*</mask>
     <mask>*Carbon*.*</mask>
+    <mask>*.*</mask>
   </component>
 </application>
