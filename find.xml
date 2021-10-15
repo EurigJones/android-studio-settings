@@ -18,7 +18,6 @@
     <mask>*ViewModel.*</mask>
     <mask>*.properties</mask>
     <mask>*</mask>
-    <mask>*.gradle</mask>
     <mask>multi_currency*.xml</mask>
     <mask>IPay*.*</mask>
     <mask>*Bindings.*</mask>
@@ -33,6 +32,7 @@
     <mask>*.xml</mask>
     <mask>*Fragment.*</mask>
     <mask>*Carbon*.*</mask>
+    <mask>*.gradle</mask>
     <mask>*.*</mask>
   </component>
 </application>
