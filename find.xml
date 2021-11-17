@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>themes.xml</mask>
-    <mask>referencedata-default.xml</mask>
+    <option name="FILE_MASK" value="*ViewModel.*" />
     <mask>*.</mask>
     <mask>*Impl.java</mask>
     <mask>*Activity.kt</mask>
@@ -13,7 +11,6 @@
     <mask>*Fragment.kt</mask>
     <mask>*Fragment.java</mask>
     <mask>styleable.xml</mask>
-    <mask>*ViewModel.*</mask>
     <mask>*.properties</mask>
     <mask>*</mask>
     <mask>multi_currency*.xml</mask>
@@ -33,6 +30,9 @@
     <mask>*next*.json</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*DataSource.*</mask>
+    <mask>*UseCase.*</mask>
     <mask>*.*</mask>
+    <mask>*ViewModel.*</mask>
   </component>
 </application>
