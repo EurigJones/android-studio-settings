@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>*Enum.kt</mask>
-    <mask>style.xml</mask>
+    <option name="FILE_MASK" value="*next*.json" />
     <mask>themes.xml</mask>
     <mask>referencedata-default.xml</mask>
     <mask>*.</mask>
@@ -34,5 +32,7 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>nextbve</mask>
+    <mask>*next*.json</mask>
   </component>
 </application>
