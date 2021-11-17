@@ -24,15 +24,15 @@
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*conf*.*</mask>
-    <mask>*.kt</mask>
     <mask>*Module.*</mask>
     <mask>*Navigator.*</mask>
     <mask>*Fragment.*</mask>
     <mask>*Carbon*.*</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>nextbve</mask>
     <mask>*next*.json</mask>
+    <mask>*.xml</mask>
+    <mask>*.kt</mask>
     <mask>*.*</mask>
   </component>
 </application>
