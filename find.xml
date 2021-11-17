@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ViewModel.*" />
+    <option name="FILE_MASK" value="*Fragment.*" />
     <mask>*.</mask>
     <mask>*Impl.java</mask>
     <mask>*Activity.kt</mask>
@@ -23,7 +23,6 @@
     <mask>*conf*.*</mask>
     <mask>*Module.*</mask>
     <mask>*Navigator.*</mask>
-    <mask>*Fragment.*</mask>
     <mask>*Carbon*.*</mask>
     <mask>*.gradle</mask>
     <mask>nextbve</mask>
@@ -34,5 +33,6 @@
     <mask>*UseCase.*</mask>
     <mask>*.*</mask>
     <mask>*ViewModel.*</mask>
+    <mask>*Fragment.*</mask>
   </component>
 </application>
