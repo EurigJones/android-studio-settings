@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Fragment.*" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.</mask>
     <mask>*Impl.java</mask>
     <mask>*Activity.kt</mask>
@@ -31,8 +31,8 @@
     <mask>*.kt</mask>
     <mask>*DataSource.*</mask>
     <mask>*UseCase.*</mask>
-    <mask>*.*</mask>
     <mask>*ViewModel.*</mask>
     <mask>*Fragment.*</mask>
+    <mask>*.*</mask>
   </component>
 </application>
