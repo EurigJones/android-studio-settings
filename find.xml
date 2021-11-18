@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>*.</mask>
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*Impl.java</mask>
     <mask>*Activity.kt</mask>
     <mask>*Activity.java</mask>
@@ -27,12 +26,13 @@
     <mask>*.gradle</mask>
     <mask>nextbve</mask>
     <mask>*next*.json</mask>
-    <mask>*.xml</mask>
-    <mask>*.kt</mask>
     <mask>*DataSource.*</mask>
     <mask>*UseCase.*</mask>
     <mask>*ViewModel.*</mask>
     <mask>*Fragment.*</mask>
     <mask>*.*</mask>
+    <mask>*.xml</mask>
+    <mask>nav_graph*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
