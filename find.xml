@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Activity.kt</mask>
     <mask>*Activity.java</mask>
     <mask>*Fragment.kt</mask>
@@ -32,7 +32,7 @@
     <mask>nav_graph*.xml</mask>
     <mask>*.*</mask>
     <mask>*grow*.*</mask>
-    <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
