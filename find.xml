@@ -16,7 +16,6 @@
     <mask>*Bindings.*</mask>
     <mask>*Activity.*</mask>
     <mask>*Domain.*</mask>
-    <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*conf*.*</mask>
     <mask>*Module.*</mask>
@@ -33,6 +32,7 @@
     <mask>*grow*.*</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.json</mask>
     <mask>*.*</mask>
   </component>
 </application>
