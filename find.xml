@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*Activity.kt</mask>
     <mask>*Activity.java</mask>
     <mask>*Fragment.kt</mask>
@@ -15,7 +15,6 @@
     <mask>*Bindings.*</mask>
     <mask>*Activity.*</mask>
     <mask>*Domain.*</mask>
-    <mask>*.java</mask>
     <mask>*conf*.*</mask>
     <mask>*Module.*</mask>
     <mask>*Navigator.*</mask>
@@ -31,8 +30,9 @@
     <mask>*grow*.*</mask>
     <mask>*.kt</mask>
     <mask>*.json</mask>
-    <mask>*.xml</mask>
     <mask>*</mask>
     <mask>*.*</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
