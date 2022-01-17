@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="box_stroke_colorxml" type="PLAIN_TEXT" />
       <mapping ext="demo" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
