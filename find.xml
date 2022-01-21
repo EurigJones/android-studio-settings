@@ -5,9 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>*Fragment.kt</mask>
-    <mask>*Fragment.java</mask>
+    <option name="FILE_MASK" value=".*" />
     <mask>styleable.xml</mask>
     <mask>*.properties</mask>
     <mask>multi_currency*.xml</mask>
@@ -36,5 +34,7 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>*Test.*</mask>
+    <mask>.*</mask>
   </component>
 </application>
