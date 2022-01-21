@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value=".*" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>styleable.xml</mask>
     <mask>*.properties</mask>
     <mask>multi_currency*.xml</mask>
@@ -33,8 +31,8 @@
     <mask>*payme*.json</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
-    <mask>*.*</mask>
     <mask>*Test.*</mask>
     <mask>.*</mask>
+    <mask>*.*</mask>
   </component>
 </application>
