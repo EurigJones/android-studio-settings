@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../data [android-rbsg-retail.data]'" />
-    <option name="defaultScopeName" value="Directory '.../data [android-rbsg-retail.data]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../data [android-rbsg-retail.data]'" />
+    <option name="customScope" value="Directory '.../util [android-rbsg-retail.util]'" />
+    <option name="defaultScopeName" value="Directory '.../util [android-rbsg-retail.util]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../util [android-rbsg-retail.util]'" />
     <option name="FILE_MASK" value="*.*" />
     <mask>styleable.xml</mask>
     <mask>*.properties</mask>
