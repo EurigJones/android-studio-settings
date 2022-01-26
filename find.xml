@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'android-rbsg-retail'" />
+    <option name="defaultScopeName" value="Project 'android-rbsg-retail'" />
+    <option name="SEARCH_SCOPE" value="Project 'android-rbsg-retail'" />
     <option name="FILE_MASK" value="*.*" />
     <mask>styleable.xml</mask>
     <mask>*.properties</mask>
